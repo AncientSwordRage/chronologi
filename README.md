@@ -1,2 +1,2 @@
 # chronologi
-Find, track create extended film franchises.
+Find, track and create extended film franchise universes

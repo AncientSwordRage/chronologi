@@ -1,0 +1,19 @@
+{
+  "name": "chronologi",
+  "version": "1.0.0",
+  "description": "Find, track and create extended film franchise universes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AncientSwordRage/chronologi.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AncientSwordRage/chronologi/issues"
+  },
+  "homepage": "https://github.com/AncientSwordRage/chronologi#readme"
+}
